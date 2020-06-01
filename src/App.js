@@ -5,9 +5,12 @@ import SkillRow from "./SkillRow";
 import Experience from "./Experience";
 import ContactSection from "./ContactSection";
 import TaglineSection from "./TaglineSection";
+import useDocumentTitle from 'use-document-title';
 
 export default function App() {
   const { skills = {}, experiences = [], tagline, contactInformation } = data;
+
+  useDocumentTitle("Resume | Marty Powell, Senior Software Developer")
 
   return (
     <div className="App p-4 sm:p-8">
