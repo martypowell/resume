@@ -1,0 +1,100 @@
+{
+  "contactInformation": {
+    "name": "Marty Powell",
+    "position": "Senior Software Developer",
+    "location": "Manchester, MD",
+    "email": "jpowel25@gmail.com",
+    "websites": [
+      { "title": "martypowell.com", "url": "http://martypowell.com" },
+      { "title": "github/martypowell", "url": "https://github.com/martypowell" }
+    ]
+  },
+  "tagline": {
+    "headline": "Senior Software Engineer with Over 10 Years of Experience",
+    "summary": [
+      "Focusing on creating quality software, that is easy to use for users and other developers",
+      "Eager to work with others to improve together",
+      "Experience working with product owners to deliver the software they need to be successful",
+      "Interested in becoming more involved in the open source software"
+    ]
+  },
+  "skills": {
+    ".net": [".NET", ".NET Core", "Web API", "MVC", "c#", "MStest", "OData"],
+    "Javascript": [
+      "React",
+      "Jest",
+      "testing-library",
+      "Selenium",
+      "Cypress.io",
+      "Parcel",
+      "Webpack",
+      "jQuery",
+      "grunt/gulp"
+    ],
+    "Other": [
+      "Code Reviews",
+      "git",
+      "github",
+      "Azure DevOps",
+      "Oracle",
+      "SqlServer",
+      "TravisCI",
+      "Github Actions"
+    ],
+    "Experimental": [
+      "nextjs",
+      "styled-jsx",
+      "MongoDB",
+      "FireBase",
+      "tailwindcss"
+    ]
+  },
+  "experiences": [
+    {
+      "place": "Baltimore County Government",
+      "location": "Towson, MD",
+      "fromDate": "2016",
+      "toDate": "Present",
+      "position": "Senior Software Engineer",
+      "bulletPoints": [
+        "Buidling and supporting a diverse portfolio of websites and web apps",
+        "Full stack development using React/JavaScript, .Net, HTML, and CSS",
+        "Leading the development and adoption packaging resuable code and components using Npm and NuGet",
+        "Working to improve user experience and accessibility in Baltimore County’s websites and applications",
+        "Championing the use of Git at Baltimore County via GitHub and Azure DevOps",
+        "CI/CD using Github and Azure DevOps",
+        "Promoting quality through C# and JavaScript unit test coverage and UI automation",
+        "Promoting quality through formal code reviews and pull requests",
+        "Developing and enforcing coding standards",
+        "Mentoring developers of different skill sets"
+      ]
+    },
+    {
+      "place": "Nations Photo Lab",
+      "location": "Hunt Valley, MD",
+      "fromDate": " 2015",
+      "toDate": "2016",
+      "position": "Lead Web Developer",
+      "bulletPoints": [
+        "Worked on a small development team working on e-commerce websites",
+        "Full stack development using C#, JavaScript, HTML, and CSS",
+        "Supported the marketing team by assisting in configuration of Google Analytics, Google Tag Manager and other marketing tools"
+      ]
+    },
+    {
+      "place": "Baltimore County Government",
+      "location": "Towson, MD",
+      "fromDate": "2009",
+      "toDate": "2015",
+      "position": "Programmer Analyst",
+      "bulletPoints": [
+        "Worked with design team and other developers to improve user experience in county websites and applications (jQuery, CSS)",
+        "Lead the effort to ensure apps and websites were responsive",
+        "Vendor software packages support and maintenance",
+        "Custom web application development, support, and maintenance",
+        "Full stack development using C#, JavaScript, HTML, and CSS",
+        "Oracle and SQL Server development and reporting"
+      ]
+    }
+  ]
+}
